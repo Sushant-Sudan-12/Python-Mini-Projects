@@ -1,7 +1,7 @@
 import smtplib
 
 my_email = "sushantsudan3075@gmail.com"
-my_pass = "sudan3075"
+my_pass = ""
 msg = """Subject: Hello
 
 Hello World
