@@ -1,7 +1,7 @@
 import requests
 
-APP_ID = "d6911353"
-APP_KEY = "07ef7fd7ee8973846342d256fd81fad9"
+APP_ID = ""
+APP_KEY = ""
 URL = "https://trackapi.nutritionix.com/v2/natural/nutrients"
 
 headers = {
